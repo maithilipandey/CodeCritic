@@ -29,7 +29,7 @@ Deployment: (Vercel / Render / etc. — fill when deployed)
 📦 Installation
 
 Clone the repository:
-git clone https://github.com/your-username/CodeEvaluator.git
+git clone https://github.com/maithilipandey/CodeCritic.git
 Install dependencies:
 npm install
 Run development server:
